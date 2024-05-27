@@ -28,7 +28,7 @@ Follow these steps to install ExPet:
 1. Install [Python](https://www.python.org/downloads/) and [Git](https://git-scm.com/download/win).
 2. Run the following commands in your terminal:
     ```sh
-    git clone https://github.com/MachineKillin/MSMC
+    git clone [https://github.com/MachineKillin/MSMC](https://github.com/ElevateLabe/Minecraft-AccountChecker-ExPet)
     cd ExPet
     pip install -r requirements.txt
     python ExPet.py
