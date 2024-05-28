@@ -1,5 +1,6 @@
 # ExPet: Minecraft Account Checker by Elevate
 
+## Must disable Microsoft defnder or the tool wont work.
 ## About
 
 ExPet is a Minecraft account checker developed by Elevate that uses combo lists to verify account credentials via Microsoft's Xbox login. It identifies valid Minecraft accounts and conveniently saves them to a specified Discord webhook.
